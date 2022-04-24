@@ -1,0 +1,17 @@
+*{color: white;}
+body {
+    background-image: url(https://images5.alphacoders.com/523/thumb-1920-523521.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h3{
+    color: #f1c40f;
+}
+h2{
+    border: 2px solid black;
+    background-color: #f1c40f;
+    color: black;
+}
+#astronomy-class{
+    color: #e74c3c;
+}
